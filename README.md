@@ -9,7 +9,7 @@
 <sub>*Data Scientist* e *Engenheiro Mecânico*</sub>
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, R, Machine Learning e Vibrações Mecânicas.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira)
