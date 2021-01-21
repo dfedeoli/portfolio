@@ -16,11 +16,25 @@
 
 
 ## Projetos:
-Maratona Behind The Code 2020:
+
+### Maratona Behind The Code 2020:
 
 * **Desafio 2 BTC:** https:
 
+### AWS Computer Vision: Getting Started with GluonCV
+
+Notebooks do curso realizado via plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional.
+
+* **Module 3 Assignment:** 
+* **Module 4 Assignment:** 
+* **Module 5 Practice Assignment 1:**
+* **Module 5 Practice Assignment 2:**
+* **Module 5 Assignment:**
+* **Module 6 Assignment:**
+
 ---
+
+
 
 
 
