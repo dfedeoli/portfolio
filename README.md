@@ -29,7 +29,7 @@ Notebooks do curso realizado via plataforma de ensino **Coursera** (https://www.
 * **Module 4 Assignment:** https://bit.ly/3sKvsVB
 * **Module 5 Practice Assignment 1:** https://bit.ly/36iHzzN
 * **Module 5 Practice Assignment 2:** https://bit.ly/3ixfU2R
-* **Module 5 Assignment:**
+* **Module 5 Assignment:** https://bit.ly/3o4RzCw
 * **Module 6 Assignment:**
 
 ---
