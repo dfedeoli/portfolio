@@ -23,7 +23,7 @@
 
 ### AWS Computer Vision: Getting Started with GluonCV
 
-Notebooks do [curso disponível na plataforma de ensino Coursera](https://www.coursera.org/learn/aws-computer-vision-gluoncv), aplicando conceitos de Deep Learning e Visão Computacional.
+Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional.
 
 * **Module 3 Assignment:** 
 * **Module 4 Assignment:** https://bit.ly/3sKvsVB
