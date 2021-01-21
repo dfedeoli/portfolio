@@ -19,7 +19,7 @@
 
 ### Maratona Behind The Code 2020:
 
-* **Desafio 2 BTC:** https:
+* **Desafio 2 - UNINASSAU:** https:
 
 ### AWS Computer Vision: Getting Started with GluonCV
 
