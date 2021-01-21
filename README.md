@@ -6,7 +6,7 @@
 </p>
 
 # Danilo Ferreira de Oliveira
-<sub>*Data Scientist* e *Engenheiro Mecânico*</sub>
+<sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
 
 
 **Background in:** Python, R e Machine Learning.
@@ -23,7 +23,7 @@
 
 ### AWS Computer Vision: Getting Started with GluonCV
 
-Notebooks do curso realizado via plataforma de ensino **Coursera** (https://www.coursera.org/learn/aws-computer-vision-gluoncv), aplicando conceitos de Deep Learning e Visão Computacional.
+Notebooks do [curso realizado via plataforma de ensino Coursera](https://www.coursera.org/learn/aws-computer-vision-gluoncv), aplicando conceitos de Deep Learning e Visão Computacional.
 
 * **Module 3 Assignment:** 
 * **Module 4 Assignment:** https://bit.ly/3sKvsVB
