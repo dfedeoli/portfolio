@@ -8,7 +8,7 @@
 <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
 
 
-**Background in:** Python, R e Machine Learning.
+**Habilidades/Competências:** Python, MATLAB, R e Machine Learning.
 
 [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira)
 
