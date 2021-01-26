@@ -19,6 +19,8 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 ### Maratona Behind The Code 2020:
 
+Maratona de Ciência de Dados, Inteligência Artificial e IoT, organizada pela IBM. Composta por 8 desafios com utilização de Jupyter Notebooks e diversos serviços e softwares da IBM Cloud, garanti a *53a colocação no ranking Brasil*. 
+
 * **Desafio 2 - UNINASSAU:** https:
 * **Desafio 6 - LIT:** *em progresso*
 * **Desafio 7 - TNT:** *em progresso*
