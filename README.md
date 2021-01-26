@@ -19,7 +19,7 @@
 
 * **Desafio 2 - UNINASSAU:** https:
 
-## Cursos/Exercícios:
+## Atividades de Cursos:
 
 ### AWS Computer Vision: Getting Started with GluonCV
 
