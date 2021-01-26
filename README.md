@@ -28,7 +28,7 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 * **Module 5 Practice Assignment 1:** https://bit.ly/36iHzzN
 * **Module 5 Practice Assignment 2:** https://bit.ly/3ixfU2R
 * **Module 5 Assignment:** https://bit.ly/3o4RzCw
-* **Module 6 Assignment:**
+* **Module 6 Assignment:** http://bit.ly/2M6Tqd9
 
 ---
 
