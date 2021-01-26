@@ -20,6 +20,8 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 ### Maratona Behind The Code 2020:
 
 * **Desafio 2 - UNINASSAU:** https:
+* **Desafio 6 - LIT:** *em progresso*
+* **Desafio 7 - TNT:** *em progresso*
 
 ## Atividades de Cursos:
 
