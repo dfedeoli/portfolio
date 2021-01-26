@@ -19,6 +19,8 @@
 
 * **Desafio 2 - UNINASSAU:** https:
 
+## Cursos/Exercícios:
+
 ### AWS Computer Vision: Getting Started with GluonCV
 
 Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional.
