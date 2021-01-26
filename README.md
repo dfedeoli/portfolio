@@ -6,6 +6,7 @@
 
 # Danilo Ferreira de Oliveira
 <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
+
 [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira)
 
 **Habilidades/Competências:** Python, MATLAB, R e Machine Learning.
