@@ -23,7 +23,7 @@
 
 Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional.
 
-* **Module 3 Assignment:** 
+* **Module 3 Assignment:** http://bit.ly/39kv7RT
 * **Module 4 Assignment:** https://bit.ly/3sKvsVB
 * **Module 5 Practice Assignment 1:** https://bit.ly/36iHzzN
 * **Module 5 Practice Assignment 2:** https://bit.ly/3ixfU2R
