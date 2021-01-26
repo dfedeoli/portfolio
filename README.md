@@ -7,12 +7,10 @@
 # Danilo Ferreira de Oliveira
 <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
 
-[LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira)
-
 Recém-graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica
 e programação. Atualmente fazendo cursos de Data Science (HarvardX, edX) e Cloud Computing (Azure e GCP, Coursera), em
 preparação para a carreira de Cientista de Dados. Determinado a contribuir positivamente para a atual transformação digital, de forma
-que possamos viver uma saudável era dos dados e da inteligência artificial.
+que possamos viver uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira)
 
 **Habilidades/Competências:** Python, MATLAB, R e Machine Learning.
 
