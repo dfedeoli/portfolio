@@ -40,7 +40,7 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 
 ### Bootcamp Cientista de Dados - IGTI
 
-* **Trabalho Prático Módulo 4** (Databricks): http://bit.ly/3iPQpdg
+* **Trabalho Prático 2, Módulo 4** (Databricks): http://bit.ly/3iPQpdg
 * **Desafio Final** (Databricks): http://bit.ly/3prj0b4
 
 ---
