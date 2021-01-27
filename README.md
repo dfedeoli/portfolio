@@ -21,7 +21,7 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 [Maratona](https://maratona.dev/pt) de Ciência de Dados, Inteligência Artificial e IoT, organizada pela IBM e composta por 8 desafios, abrangendo desde aprendizado de máquina em Jupyter Notebooks até a utilização de diversos serviços e softwares da IBM Cloud, como *Watson Speech to Text*, *Natural Language Understanding* e *Knowledge Studio*. **Classificação na Maratona: 53ª colocação (Ranking Brasil)**. 
 
-* **Desafio 2: UNINASSAU** - modelo de predição de dificuldade em matérias: https:
+* **Desafio 2: UNINASSAU** - Modelo de *Machine Learning* para assistência de alunos: https:
 * **Desafio 6 - LIT:** *em edição*
 * **Desafio 7 - TNT:** *em edição*
 
