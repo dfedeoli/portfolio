@@ -40,6 +40,8 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 
 ### Bootcamp Cientista de Dados - IGTI
 
+Notebooks (Google Colab e Databricks) do módulo final do Bootcamp Cientista de Dados, promovido pelo Instituto de Gestão e Tecnologia da Informação.
+
 * **Trabalho Prático 1 do Módulo 4**: http://bit.ly/3iQIGM3
 * **Trabalho Prático 2 do Módulo 4** (Databricks): http://bit.ly/3iPQpdg
 * **Desafio Final** (Databricks): http://bit.ly/3prj0b4
