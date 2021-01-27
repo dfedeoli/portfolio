@@ -41,6 +41,7 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 ### Bootcamp Cientista de Dados - IGTI
 
 Desafio Final: http://bit.ly/3iPQpdg
+http://bit.ly/3prj0b4
 
 ---
 
