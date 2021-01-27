@@ -38,6 +38,10 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 * **Module 5 Assignment:** http://bit.ly/2KPr5Ya
 * **Module 6 Assignment:** http://bit.ly/2M6Tqd9
 
+### Bootcamp Cientista de Dados - IGTI
+
+Desafio Final: http://bit.ly/3iPQpdg
+
 ---
 
 
