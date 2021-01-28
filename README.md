@@ -17,7 +17,7 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 ## Projetos:
 
-### Maratona Behind The Code 2020:
+### Maratona Behind The Code 2020
 
 [Maratona](https://maratona.dev/pt) de Ciência de Dados, Inteligência Artificial e IoT, organizada pela IBM e composta por 8 desafios, abrangendo desde aprendizado de máquina em Jupyter Notebooks até a utilização de diversos serviços e softwares da IBM Cloud, como *Watson Speech to Text*, *Natural Language Understanding* e *Knowledge Studio*. **Classificação na Maratona: 53ª colocação (Ranking Brasil)**. 
 
