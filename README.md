@@ -23,7 +23,7 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 * **Desafio 2 - UNINASSAU** (Modelo de *Machine Learning* para assistência de alunos): http://bit.ly/39lnhra
 * **Desafio 6 - LIT** (Segmentação de alunos para experiência personalizada): http://bit.ly/30aUyji
-* **Desafio 7 - TNT** (Previsão de recarga de *Vending Machines*): *em edição*
+* **Desafio 7 - TNT** (Previsão de recarga de *Vending Machines* em São Paulo): *em edição*
 
 ## Atividades de Cursos:
 
