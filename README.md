@@ -31,20 +31,20 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional.
 
-* **Module 3 Assignment:** http://bit.ly/39kv7RT
-* **Module 4 Assignment:** http://bit.ly/2KUjBDo
-* **Module 5 Practice Assessment 1:** http://bit.ly/3qXoJ8S
-* **Module 5 Practice Assessment 2:** http://bit.ly/3iMWuqG
-* **Module 5 Assignment:** http://bit.ly/2KPr5Ya
-* **Module 6 Assignment:** http://bit.ly/2M6Tqd9
+* **Module 3 Assignment: Tennis Ball Detector**  http://bit.ly/39kv7RT
+* **Module 4 Assignment: Neural Network for Image Classification** http://bit.ly/2KUjBDo
+* **Module 5 Practice Assessment 1: Deep Learning Data Concepts** http://bit.ly/3qXoJ8S
+* **Module 5 Practice Assessment 2: MXNet Model Evaluation** http://bit.ly/3iMWuqG
+* **Module 5 Assignment: MXNet Full Training Process** http://bit.ly/2KPr5Ya
+* **Module 6 Assignment: Counting people in Images** http://bit.ly/2M6Tqd9
 
 ### Bootcamp Cientista de Dados - IGTI
 
 Notebooks (Google Colab e Databricks) do módulo final do Bootcamp Cientista de Dados, promovido pelo Instituto de Gestão e Tecnologia da Informação.
 
-* **Trabalho Prático 1 do Módulo 4**: http://bit.ly/3iQIGM3
-* **Trabalho Prático 2 do Módulo 4** (Databricks): http://bit.ly/3iPQpdg
-* **Desafio Final** (Databricks): http://bit.ly/3prj0b4
+* **Trabalho Prático 1 do Módulo 4: Gasto total anual de consumidores** http://bit.ly/3iQIGM3
+* **Trabalho Prático 2 do Módulo 4: Poder de consumo de clientes de um Shopping** (Databricks) http://bit.ly/3iPQpdg
+* **Desafio Final: Dados de Vítimas de AVCs** (Databricks): http://bit.ly/3prj0b4
 
 ---
 
