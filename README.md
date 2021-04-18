@@ -12,7 +12,7 @@ e programação. Atualmente fazendo Pós-Graduação (PUCRS) e cursos online (Ha
 carreira de Cientista de Dados. Determinado a contribuir positivamente para a atual transformação digital, de forma
 que possamos viver uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira), [Currículo](https://drive.google.com/file/d/1bTnCSfwXT0VrejzRy66PNLolt2bNZNZG/view?usp=sharing)
 
-**Habilidades/Competências:** Python, MATLAB, R e Machine Learning.
+**Habilidades/Competências:** Python, R, MATLAB e Machine Learning.
 
 
 ## Projetos:
