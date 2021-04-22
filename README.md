@@ -17,6 +17,12 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 ## Projetos:
 
+### Recommendation System: Rating Predictions with _MovieLens_ data
+
+Construção de um algoritmo de predição de avaliações de filmes feitas por usuários, base de sistemas de recomendação. Primeiro projeto do último curso do [Certificado Profissional em Data Science HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science), ministrado pelo Professor Rafael Irrizarry ([@rafalab](https://rafalab.github.io)), e executado totalmente em Linguagem R. Aborda desde a obtenção e análise dos dados, até o teste de algoritmos de Machine Learning por meio de avaliação dos valores RMSE (Root Mean Square Error).
+
+Disponível em https://github.com/dfedeoli/recommendation-system
+
 ### Maratona Behind The Code 2020
 
 [Maratona](https://maratona.dev/pt) de Ciência de Dados, Inteligência Artificial e IoT, organizada pela IBM e composta por 8 desafios, abrangendo desde aprendizado de máquina em Jupyter Notebooks até a utilização de diversos serviços e softwares da IBM Cloud, como *Watson Speech to Text*, *Natural Language Understanding* e *Knowledge Studio*. **Classificação na Maratona: 53ª colocação (Ranking Brasil)**. 
