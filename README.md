@@ -3,7 +3,7 @@
 [![Tech fonts](https://see.fontimg.com/api/renderfont4/X3Wxo/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzA1MkQ0QSIsInQiOjF9/RGF0YSBTY2llbmNl/despairs.png)](https://www.fontspace.com/category/tech)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner2.png" >
 </p>
 
 # Danilo Ferreira de Oliveira
