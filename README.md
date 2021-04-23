@@ -23,7 +23,7 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 Disponível em: https://github.com/dfedeoli/recommendation-system.
 
-Construção de um algoritmo de predição de avaliações de filmes feitas por usuários, base de sistemas de recomendação. Primeiro projeto do último curso do [Certificado Profissional em Data Science HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science), ministrado pelo Professor Rafael Irrizarry ([@rafalab](https://rafalab.github.io)). Executado totalmente em Linguagem R, aborda desde a obtenção e análise dos dados até o teste de algoritmos de Machine Learning, por meio de avaliação dos valores RMSE (Root Mean Square Error).
+Construção de um algoritmo para predição de avaliações de filmes feitas por usuários, base de sistemas de recomendação. Primeiro projeto do último curso do [Certificado Profissional em Data Science HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science), ministrado pelo Professor Rafael Irrizarry ([@rafalab](https://rafalab.github.io)). Executado totalmente em Linguagem R, aborda desde a obtenção e análise dos dados até o teste de algoritmos de Machine Learning, por meio de avaliação dos valores RMSE (Root Mean Square Error).
 
 ### Maratona Behind The Code 2020
 
