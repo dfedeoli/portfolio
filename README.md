@@ -54,7 +54,7 @@ Notebooks (Google Colab e Databricks) do módulo final do Bootcamp Cientista de 
 * **Desafio Final: Dados de Vítimas de AVCs** (Databricks): http://bit.ly/3prj0b4
 
 ---
-
+[![Tech fonts](https://see.fontimg.com/api/renderfont4/X3Wxo/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzA1MkQ0QSIsInQiOjF9/RGF0YSBTY2llbmNl/despairs.png)](https://www.fontspace.com/category/tech)
 
 
 
