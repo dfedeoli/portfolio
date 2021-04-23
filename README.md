@@ -1,10 +1,10 @@
 [![author](https://img.shields.io/badge/author-dfedeoli-red.svg)](https://www.linkedin.com/in/danilo-ferreira-de-oliveira) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+[![Tech fonts](https://see.fontimg.com/api/renderfont4/X3Wxo/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzA1MkQ0QSIsInQiOjF9/RGF0YSBTY2llbmNl/despairs.png)](https://www.fontspace.com/category/tech)
+
 <p align="center">
   <img src="banner.png" >
 </p>
-
-[![Tech fonts](https://see.fontimg.com/api/renderfont4/X3Wxo/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzA1MkQ0QSIsInQiOjF9/RGF0YSBTY2llbmNl/despairs.png)](https://www.fontspace.com/category/tech)
 
 # Danilo Ferreira de Oliveira
 <sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
