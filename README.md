@@ -38,7 +38,7 @@ Construção de um algoritmo para predição de avaliações de filmes feitas po
 
 ### AWS Computer Vision: Getting Started with GluonCV
 
-Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional.
+Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional em Python.
 
 * **Module 3 Assignment: Tennis Ball Detector**  http://bit.ly/39kv7RT
 * **Module 4 Assignment: Neural Network for Image Classification** http://bit.ly/2KUjBDo
@@ -49,7 +49,7 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 
 ### Bootcamp Cientista de Dados - IGTI
 
-Notebooks (Google Colab e Databricks) do módulo final do Bootcamp Cientista de Dados, promovido pelo Instituto de Gestão e Tecnologia da Informação.
+Notebooks em Python (Google Colab e Databricks) do módulo final do Bootcamp Cientista de Dados, promovido pelo Instituto de Gestão e Tecnologia da Informação.
 
 * **Trabalho Prático 1 do Módulo 4: Gasto anual total de consumidores locais** http://bit.ly/3iQIGM3
 * **Trabalho Prático 2 do Módulo 4: Poder de consumo de clientes de um Shopping** (Databricks) http://bit.ly/3iPQpdg
