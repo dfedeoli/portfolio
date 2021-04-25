@@ -27,7 +27,7 @@ Construção de um algoritmo para predição de avaliações de filmes feitas po
 
 ### Maratona Behind The Code 2020
 
-[Maratona](https://maratona.dev/pt) de Ciência de Dados, Inteligência Artificial e IoT, organizada pela IBM e composta por 8 desafios, abrangendo desde aprendizado de máquina em Jupyter Notebooks até a utilização de diversos serviços e softwares da IBM Cloud, como *Watson Speech to Text*, *Natural Language Understanding* e *Knowledge Studio*. **Classificação na Maratona: 53ª colocação (Ranking Brasil)**. 
+[Maratona](https://maratona.dev/pt) de Ciência de Dados, Inteligência Artificial e IoT, organizada pela IBM e composta por 8 desafios, abrangendo desde aprendizado de máquina em Jupyter Notebooks (linguagem Python) até a utilização de diversos serviços e softwares da IBM Cloud, como *Watson Speech to Text*, *Natural Language Understanding* e *Knowledge Studio*. **Classificação na Maratona: 53ª colocação (Ranking Brasil)**. 
 
 * **Desafio 2 - UNINASSAU (Modelo de *Machine Learning* para assistência de alunos)**: http://bit.ly/39lnhra
 * **Desafio 4 - Algar (Modelo de seleção de candidatos para contratação)**: https://bit.ly/310scZq
