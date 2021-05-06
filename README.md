@@ -20,7 +20,7 @@ que possamos viver uma saudável era dos dados e da inteligência artificial. [L
 
 ## Projetos:
 
-### Recommendation System: Rating Predictions with _MovieLens_ data
+### Recommendation Systems: Rating Predictions with _MovieLens_ data
 
 Disponível em: https://github.com/dfedeoli/recommendation-system.
 
