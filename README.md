@@ -7,9 +7,9 @@
 # Danilo Ferreira de Oliveira
 <sub>*Data Engineer/Analytics Engineer*</sub>
 
-Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica e programação. Pós-graduado em Ciência de Dados e Inteligência Artificial pela PUCRS e atualmente trabalhando na ília como Data Engineer/Analytics Engineer. Experiência com construção de pipelines de dados usando serviços da AWS (S3, Lambda, Glue, Athena, API Gateway, Step Functions) e com construção de dashboards (Quicksight, Power BI, Apache Superset). Atuação com Notebooks Databricks, Azure Data Factory, ADLS Gen 2, Bancos de dados relacionais (MySQL, PostgreSQL) e Pyspark.  
-Determinado a contribuir positivamente para a atual transformação digital, de forma
-que possamos viver uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira), [Currículo](https://drive.google.com/file/d/1bTnCSfwXT0VrejzRy66PNLolt2bNZNZG/view?usp=sharing)
+Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica e programação. Pós-graduado em Ciência de Dados e Inteligência Artificial pela PUCRS e atualmente trabalhando na ília como Data Engineer/Analytics Engineer. Experiência com construção de pipelines de dados usando serviços da AWS (S3, Lambda, Glue, Athena, API Gateway, Step Functions) e com construção de dashboards (Quicksight, Power BI, Apache Superset). Atuação com Notebooks Databricks, Azure Data Factory, ADLS Gen 2, Bancos de dados relacionais (MySQL, PostgreSQL) e Pyspark. 
+
+Determinado a contribuir positivamente para a atual transformação digital, de forma que possamos viver uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira), [Currículo](https://drive.google.com/file/d/1bTnCSfwXT0VrejzRy66PNLolt2bNZNZG/view?usp=sharing)
 
 **Habilidades/Competências:** Python, SQL, ETL e AWS.
 
