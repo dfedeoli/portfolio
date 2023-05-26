@@ -1,30 +1,39 @@
 [![author](https://img.shields.io/badge/author-dfedeoli-red.svg)](https://www.linkedin.com/in/danilo-ferreira-de-oliveira) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-[![Tech fonts](https://see.fontimg.com/api/renderfont4/X3Wxo/eyJyIjoiZnMiLCJoIjo5MSwidyI6MTI1MCwiZnMiOjczLCJmZ2MiOiIjN0JEOUZBIiwiYmdjIjoiIzA1MkQ0QSIsInQiOjF9/RGF0YSBTY2llbmNl/despairs.png)](https://www.fontspace.com/category/tech)
-
 <p align="center">
   <img src="banner2.png" >
 </p>
 
 # Danilo Ferreira de Oliveira
-<sub>*Cientista de Dados e Engenheiro Mecânico*</sub>
+<sub>*Data Engineer/Analytics Engineer*</sub>
 
-Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica
-e programação. Atualmente fazendo Pós-Graduação (PUCRS) e cursos online (HarvardX, edX) de Data Science, em preparação para a
-carreira de Cientista de Dados. Determinado a contribuir positivamente para a atual transformação digital, de forma
+Graduado em Engenharia Mecânica pela UnB, me encontrei na ciência de dados por paixão à matemática e habilidade com lógica e programação. Pós-graduado em Ciência de Dados e Inteligência Artificial pela PUCRS e atualmente trabalhando na ília como Data Engineer/Analytics Engineer. Experiência com construção de pipelines de dados usando serviços da AWS (S3, Lambda, Glue, Athena, API Gateway, Step Functions) e com construção de dashboards (Quicksight, Power BI, Apache Superset). Atuação com Notebooks Databricks, Azure Data Factory, ADLS Gen 2, Bancos de dados relacionais (MySQL, PostgreSQL) e Pyspark.  
+Determinado a contribuir positivamente para a atual transformação digital, de forma
 que possamos viver uma saudável era dos dados e da inteligência artificial. [LinkedIn](https://www.linkedin.com/in/danilo-ferreira-de-oliveira), [Currículo](https://drive.google.com/file/d/1bTnCSfwXT0VrejzRy66PNLolt2bNZNZG/view?usp=sharing)
 
-**Habilidades/Competências:** Python, R, MATLAB e Machine Learning.
+**Habilidades/Competências:** Python, SQL, ETL e AWS.
 
 ---
 
 ## Projetos:
+
+### Modern Data Stack Pipeline
+
+Disponível em: https://github.com/dfedeoli/mds-pipeline
+
+Implementação de um pipeline completo de dados, utilizando ferramentas da Modern Data Stack. Foram utilizados: Airbyte, Airflow, dbt, snowflake e Metabase.
 
 ### Recommendation Systems: Rating Predictions with _MovieLens_ data
 
 Disponível em: https://github.com/dfedeoli/recommendation-system.
 
 Construção de um algoritmo para predição de avaliações de filmes feitas por usuários, base de sistemas de recomendação. Primeiro projeto do último curso do [Certificado Profissional em Data Science HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science), ministrado pelo Professor Rafael Irrizarry ([@rafalab](https://rafalab.github.io)). Executado totalmente em Linguagem R, aborda desde a obtenção e análise dos dados até o teste de algoritmos de Machine Learning, por meio de avaliação dos valores RMSE (Root Mean Square Error).
+
+### Term Deposits Subscription Analysis for a Portuguese Bank 
+
+Disponível em: https://github.com/dfedeoli/bank-marketing
+
+Construção de modelos para predição de assinatura de termos de depósito de um banco português, usando como _features_ do modelo dados sobre as abordagens de Marketing do banco. Dataset obtido a partir do UCI Machine Learning Repository.
 
 ### Maratona Behind The Code 2020
 
