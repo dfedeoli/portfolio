@@ -17,6 +17,12 @@ Determinado a contribuir positivamente para a atual transformação digital, de 
 
 ## Projetos:
 
+### Streaming Smartphone Data through Kafka with Google Compute Engine and BigQuery
+
+Disponível em: https://github.com/dfedeoli/kafka-gce-smartphone-data
+
+Streaming de dados de acelerômetro de um celular, através de código python e broker Kafka no Google Compute Engine, com armazenamento no Google Cloud Storage e disponibilização no BigQuery.
+
 ### Modern Data Stack Pipeline
 
 Disponível em: https://github.com/dfedeoli/mds-pipeline
